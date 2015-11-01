@@ -1,0 +1,11 @@
+D:\Visual Programming\Splash Solution\Splash Project\bin\Debug\Splash Project.exe.config
+D:\Visual Programming\Splash Solution\Splash Project\bin\Debug\Splash Project.exe
+D:\Visual Programming\Splash Solution\Splash Project\bin\Debug\Splash Project.pdb
+D:\Visual Programming\Splash Solution\Splash Project\bin\Debug\Splash Project.xml
+D:\Visual Programming\Splash Solution\Splash Project\obj\Debug\Splash Project.vbprojResolveAssemblyReference.cache
+D:\Visual Programming\Splash Solution\Splash Project\obj\Debug\Splash_Project.frmSplash.resources
+D:\Visual Programming\Splash Solution\Splash Project\obj\Debug\Splash_Project.Resources.resources
+D:\Visual Programming\Splash Solution\Splash Project\obj\Debug\Splash Project.vbproj.GenerateResource.Cache
+D:\Visual Programming\Splash Solution\Splash Project\obj\Debug\Splash Project.exe
+D:\Visual Programming\Splash Solution\Splash Project\obj\Debug\Splash Project.xml
+D:\Visual Programming\Splash Solution\Splash Project\obj\Debug\Splash Project.pdb
